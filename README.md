@@ -31,7 +31,7 @@ Welcome! I'm an enthusiastic **Android Embedded Engineer** exploring the **Infot
 ## 💬 Let's Connect!
 I'm always excited to **collaborate, learn, and share insights** with fellow engineers.  
 📧 **Email:** [vaddepallynivas.netha@ielektron.com]  
-🚀 **GitHub:** [github.com/BitwiseByte](https://github.com/bitwisebyte)
+🚀 **GitHub:** [github.com/BitwiseByte](https://github.com/bitwisebyte)  
 💼 **Personal Site** [BitwiseByte.github.io]
 
 ---
