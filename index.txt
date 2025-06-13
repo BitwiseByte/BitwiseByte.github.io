@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Nivas Netha
+Nivas Netha
+Andriod Embedded Developer
 
 Show Contacts
 
 Email
-richard@example.com
+vaddepallynivas.netha@ielektron.com
 
 Phone
-+1 (213) 352-2795
++91 73961 48055
 
-Birthday
-June 23, 1982
+Work Experiance
+1 month
 
 Location
-Sacramento, California, USA
+Bengaluru, Karnataka, India
 
 # navbar
 
@@ -32,9 +32,9 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm a Embedded Andriod Trainee at Ielektron Technologies in Bengaluru. We focus on Infoteinment and Clustering of 4 wheelers. I enjoy Intergrating Andriod in Embedded Modules.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+My job is to build Andriod OS so that it is functional and user-friendly to host application and run apps on car. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to earn more in the most creative way. I created nothing so far so no famous brand companies know of me.
 
 
 ## service
@@ -42,20 +42,20 @@ My job is to build your website so that it is functional and user-friendly but a
 What i'm doing
 
 alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+AOSP
+Just a begineer nothing created yet.
 
 alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+Embedded development
+High-quality development i did not do just some basics.
 
 alt = mobile app icon
 Mobile apps
-Professional development of applications for iOS and Android.
+Preparing my self to work Middle-layers of Andriod.
 
 alt = camera icon
 Photography
-I make high-quality photos of any category at a professional level.
+I like Photography of Nature.
 
 
 ## testimonials
@@ -81,7 +81,7 @@ Richard was hired to create a corporate identity. We were very pleased with the 
 
 ## clients
 
-Clients
+Contact
 
 alt = client logo
 
